@@ -1,0 +1,14 @@
+pode_ir(S1, S2, 100).
+pode_ir(S1, S3, 80).
+pode_ir(S1, S4, 80).
+pode_ir(S2, S6, 80).
+pode_ir(S3, S1, 80).
+pode_ir(S3, S6, 80).
+pode_ir(S4, S1, 80).
+pode_ir(S4, S8, 80).
+pode_ir(S5, S6, 80).
+pode_ir(S5, S1, 80).
+pode_ir(S6, S2, 80).
+pode_ir(S7, S1, 80).
+pode_ir(S7, S5, 80).
+pode_ir(S8, S4, 80).
